@@ -1,0 +1,22 @@
+    <br />
+    <h2>RECIPES</h2>
+    <br />
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4"  *ngFor="let food of foods">
+          <div class="card">
+            <img src="https://retete.unica.ro/wp-content/uploads/2019/03/clatite.jpg " alt="Clatite clasice" style="width:100%;">
+            <h4>{{food.title}}</h4>
+            <a class="btn btn-primary" routerLink="/view-recipe/{{food.id}}">View Recipe</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+#box1 {
+  width: 20%;
+  height: 100%;
+  margin: 0 auto;
+  background-color: white;
+  float: left;
+  padding: 60px;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  line-height:3;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+

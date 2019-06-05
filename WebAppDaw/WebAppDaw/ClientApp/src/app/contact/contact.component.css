@@ -1,0 +1,85 @@
+#box2 {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  background-image: url('http://localmontrealtours.com/wp-content/uploads/2015/05/New-restaurants-Foiegwa.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: left;
+  padding: 10%;
+  box-sizing: border-box;
+}
+
+#contact {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+#contact1 {
+  width: 50%;
+  height: 100%;
+  background-color: white;
+  float: left;
+  padding: 40px;
+  box-sizing: border-box;
+  border-radius: 8px 0px 0px 8px;
+}
+
+#contact2 {
+  width: 50%;
+  height: 100%;
+  background-color: burlywood;
+  color: white;
+  float: left;
+  padding: 40px;
+  box-sizing: border-box;
+  border-radius: 0px 8px 8px 0px;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  line-height: 3;
+  margin: 0 auto;
+}
+
+input[type=text] {
+  width: 100%;
+  box-sizing: border-box;
+  border-top: 2px solid gray;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 12px 20px 12px 20px;
+  margin: 8px;
+}
+
+input[type=button] {
+  border: none;
+  background-color: burlywood;
+  color: white;
+  padding: 16px 32px;
+  margin: 40px 10px;
+}
+
+i {
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

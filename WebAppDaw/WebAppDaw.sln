@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDaw", "WebAppDaw\WebAppDaw.csproj", "{2EE4EB6E-D5B8-44A7-87AA-373BB052F233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE4EB6E-D5B8-44A7-87AA-373BB052F233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE4EB6E-D5B8-44A7-87AA-373BB052F233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE4EB6E-D5B8-44A7-87AA-373BB052F233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE4EB6E-D5B8-44A7-87AA-373BB052F233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727B95FA-B928-42FE-851B-49237FC964BD}
+	EndGlobalSection
+EndGlobal
