@@ -6,7 +6,9 @@
   float: left;
   padding: 60px;
   box-sizing: border-box;
+  position: fixed;
 }
+
 h1 {
   text-align: center;
   margin: 0 auto;
